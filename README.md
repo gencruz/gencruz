@@ -1,6 +1,6 @@
 ## Hi! I am Geneci 👋
 
-##### 💯 Experience in designing test plans, scenarios, scripts, and procedures. Certified as qTest Specialist with Tricentis. Testing system modifications to prepare for implementation. Developing testing programs addressing regression testing, negative testing, bug retests, or usability. Documenting software defects, using a bug tracking system - Jira. Monitoring bug resolution efforts and track success. Participating in product design reviews, providing input on functional requirements. Reviewing software documentation to ensure technical accuracy, compliance, completeness, and to mitigate risks.
+##### 💯 Experience in designing test plans, scenarios, scripts, and procedures. Certified as qTest Specialist with Tricentis. Testing system modifications to prepare for implementation. Developing testing programs addressing regression testing, negative testing, bug retests, or usability. Documenting software defects, using a bug tracking systems - Jira & qTest. Monitoring bug resolution efforts and track success. Participating in product design reviews, providing input on functional requirements. Reviewing software documentation to ensure technical accuracy, compliance, completeness, and to mitigate risks. Gained and improved knowledge and skills  related to test automation via tools that requires coding skills such as SahiPro and Tosca for both UI and API, front and backend. Improved skills related to JavaScripts functions and Json Objects.
 
 ## Skills
 
