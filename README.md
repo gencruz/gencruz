@@ -52,5 +52,6 @@
     <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
     <img align="center" alt="JavaScripts" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress.js-43853D?style=for-the-badge&logo=cypress.cy&logoColor=black" />
 </div>
 
